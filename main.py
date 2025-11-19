@@ -4,7 +4,6 @@ from flask import Flask
 from cardapio import buscar_cardapio, buscar_cardapio_id
 
 
-
 app = Flask(__name__)
 
 @app.route("/")
