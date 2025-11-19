@@ -18,6 +18,4 @@ def buscar_cardapio():
             "nome": "Chocomoca",
             "descricao": " Bolo de chocolate com ninho ",
             "preco": 200.99,
-            "foto": ""
-        
         }
