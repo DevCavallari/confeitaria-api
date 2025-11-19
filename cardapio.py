@@ -16,7 +16,7 @@ def buscar_cardapio():
     itens = [
         {
             "id": 1,
-            "nome": "Chocomoça",
+            "nome": "Chocomoças",
             "descricao": " Bolo de chocolate com ninho ",
             "preco": 200.99,
             "foto": ""
